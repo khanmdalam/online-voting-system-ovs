@@ -63,7 +63,6 @@ And Try to Run the Project
 If you are using Spring Tool Suite
 Right Click On Project > Run As > Spring Boot App
 
-# Some Screenshots of this Project:
 
 
 
