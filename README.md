@@ -64,5 +64,16 @@ If you are using Spring Tool Suite
 Right Click On Project > Run As > Spring Boot App
 
 
+# Some Screenshots of this Project:
 
+
+![image ait](https://github.com/khanmdalam/online-voting-system-ovs/blob/main/a1.png)
+![image ait](https://github.com/khanmdalam/online-voting-system-ovs/blob/main/a2.png)
+![image ait](https://github.com/khanmdalam/online-voting-system-ovs/blob/main/a3.png)
+![image ait](https://github.com/khanmdalam/online-voting-system-ovs/blob/main/a4.png)
+![image ait](https://github.com/khanmdalam/online-voting-system-ovs/blob/main/a5.png)
+![image ait](https://github.com/khanmdalam/online-voting-system-ovs/blob/main/a6.png)
+![image ait](https://github.com/khanmdalam/online-voting-system-ovs/blob/main/a7.png)
+![image ait](https://github.com/khanmdalam/online-voting-system-ovs/blob/main/a8.png)
+![image ait](https://github.com/khanmdalam/online-voting-system-ovs/blob/main/a9.png)
 
